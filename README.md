@@ -12,7 +12,7 @@
 * Run node server.js once more in the console and your database will be up and running filled with all your data
 
 ## Link To Video Demo:
-
+https://youtu.be/awjK0LWjrgE
 
 ## Purpose:
 This project is a back end database set up for an ecommerce website. A user can add, delete, or update categories, products, and tags in the database
